@@ -1,6 +1,6 @@
 # OS-Disk-Scheduling
 ## You should try to compare the output after applying one of the following disk scheduling algorithms (FCFS, SSTF, SCAN, C-SCAN, and C-
- Look) and the newly optimized algorithm
+## Look) and the newly optimized algorithm
 ## by implementing their algorithms and applying it on a disk queue with requests for I/O blocks on cylinders.
  Example of cylinders I/O requests:
 ## 98, 183, 37, 122, 14, 124, 65, 67
